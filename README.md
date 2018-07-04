@@ -7,6 +7,8 @@ It uses the Google Maps API to obtain a satellite high resolution image.
 
 Join in a folder all the tracks you want to print over the satellite image. You can obtain them from Strava, Wikiloc...
 
+Modify gps/utils.py line 14 and set your Google Maps API key. Check: https://developers.google.com/maps/documentation/javascript/get-api-key
+
 Then run the mountain_heatmap.py script that has the following arguments: 
 
 ```bash
